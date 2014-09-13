@@ -87,7 +87,21 @@ span {
 	background:#fff;
 	border:10px solid white;
 }
-
+#everything #spacepicture {
+	padding-top:40px;
+	height: 500px;
+	background: url(../img/thespace.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#everything #spacepicture h2 {
+	padding: 15px 0;
+	text-align: center;
+	color: white;
+	background: #5bace1;
+}
 #organizers {
 	background:#fff;
 	border:10px solid #fff;
