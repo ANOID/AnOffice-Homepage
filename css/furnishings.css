@@ -229,5 +229,14 @@ span {
 		display: inline-block;
 		background:#fff;
 	}
+	
+	#twitter_button {
+		margin: 0 auto 30px;
+		width: 120px;
+	}
+	#facebook_button {
+		margin: 0 auto 30px;
+		width: 655px;
+	}
 
 
